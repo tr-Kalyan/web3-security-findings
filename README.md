@@ -2,27 +2,28 @@
 
 Former QA Engineer (5+ years in Finance & Healthcare) → pivoting to smart contract auditing in 2024.
 
-Actively participating in competitive audits to learn vulnerability patterns and improve reporting skills.
+Actively learning vulnerability patterns through competitive audits and public reporting.
 
-## Contest Findings
+## Key Achievements
+- **CodeHawks First Flights**: 5 valid findings total
+  - Flight 2: **3 High + 1 Medium**
+  - Flight 1: **1 Medium**
+- **Code4rena**: Submitted finding in Ekubo contest
+- **Sherlock**: Active participant in AAVE v4 audit contest (December 2025)
+
+## Reports
 
 ### CodeHawks First Flights
-- **Flight 2**: 3 High + 1 Medium severity issues found  
-  → [Detailed report & PoCs](./codehawks-first-flights/flight-2/)
-- **Flight 1**: 1 valid issue with exploit PoC  
-  → [Detailed report & PoC](./codehawks-first-flights/flight-1/)
+- [Flight 2 — 3 High + 1 Medium](https://codehawks.cyfrin.io/c/2025-10-raisebox-faucet)
+- [Flight 1 — 1 valid issue](https://codehawks.cyfrin.io/c/2025-07-last-man-standing)
 
 ### Code4rena
-- Ekubo protocol contest: Submitted 1 issue (public profile: [link if available])  
-  → [Submission notes](./codearena-ekubo/)
+- [Ekubo contest submission](https://code4rena.com/audits/2025-11-ekubo/submissions/S-385)
 
 ### Sherlock
-- AAVE v4 audit contest (Dec 2025) — actively participating  
-  → Findings and full report will be published here after contest ends (Dec 29)
+- [AAVE v4 — Active contest](./sherlock-aave-v4/)  
+  → Full report will be published after contest ends (Dec 29, 2025)
 
-## Why Security?
-My QA background taught me systematic testing, edge-case thinking, and clear communication of risk. I'm applying the same rigor to smart contracts—focusing on impact, reproducibility, and remediation.
-
-Open to junior / intern roles in smart contract auditing or blockchain QA.
+Open to junior/intern roles in smart contract auditing or blockchain QA.
 
 Let's talk security 🚀
