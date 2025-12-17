@@ -7,7 +7,7 @@ Actively learning vulnerability patterns through competitive audits and public r
 ## Key Achievements
 - **CodeHawks First Flights**: 5 valid findings total
   - Flight 2: **3 High + 1 Medium**
-  - Flight 1: **1 Medium**
+  - Flight 1: **1 validated Medium** finding (submitted/appealed as High — permanent DoS)
 - **Code4rena**: Submitted finding in Ekubo contest
 - **Sherlock**: Active participant in AAVE v4 audit contest (December 2025)
 
