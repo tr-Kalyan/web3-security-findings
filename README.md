@@ -1,30 +1,34 @@
-# Web3 Security Findings Portfolio
+# Web3 Security Findings
 
-Former QA Engineer (5+ years in Finance & Healthcare) → pivoting to smart contract auditing in 2024.
+Smart contract security researcher. Background in QA engineering (5+ years, JP Morgan & Franklin Templeton). Competing on Code4rena, Sherlock, HackenProof, and Cantina. Paid triager at Pashov Audit Group.
 
-Actively learning vulnerability patterns through competitive audits and public reporting.
+---
 
-## Key Achievements
-- **CodeHawks First Flights**: 5 valid findings total
-  - Flight 2: **3 High + 1 Medium**
-  - Flight 1: **1 validated Medium** finding (submitted/appealed as High — permanent DoS)
-- **Code4rena**: Submitted 1 High-severity issue in Ekubo contest (judging in progress)
-- **Sherlock**: Active participant in AAVE v4 audit contest (December 2025)
+## Validated Findings
 
-## Reports
+| Protocol | Platform | Findings | Reports |
+|---|---|---|---|
+| Fluid DEX V2 | Sherlock | 1M | [View →](https://github.com/tr-Kalyan/web3-security-findings/tree/main/sherlock/Fluid-dex%20V2) |
+| Hyperbridge | HackenProof | 1H | [View →](https://github.com/tr-Kalyan/web3-security-findings/tree/main/HackenProof/HyperBridge%20Protocol) |
+| Solv BTC+ | HackenProof | 1C | [View →](https://github.com/tr-Kalyan/web3-security-findings/tree/main/HackenProof/Solv%20Protocol) |
+| Limit Break AMM | GuardianAudits | 1M | [View →](https://github.com/tr-Kalyan/web3-security-findings/tree/main/GuardianAudits/LimitBreak) |
+| Jupiter Lend | Code4rena | 2L | [View →](https://github.com/tr-Kalyan/web3-security-findings/tree/main/code4rena/Jupiter%20Lend) |
+| Monetrix | Code4rena | 2L | [View →](https://github.com/tr-Kalyan/web3-security-findings/tree/main/code4rena/Monterix) |
 
-### CodeHawks First Flights
-- [Flight 2 — 3 High + 1 Medium](./codehawks-first-flights/flight-2/)
-- [Flight 1 — 1 valid issue](./codehawks-first-flights/flight-1/)
+> Duplicate (Valid) — independently identified the same vulnerability as the lead reporter. The bug is confirmed; credit is shared.
 
-### Code4rena
-- [Ekubo contest submission](https://code4rena.com/audits/2025-11-ekubo/submissions/S-385)  
-  → Public submission (S-385)
+---
 
-### Sherlock
-- [AAVE v4 — Active contest](./sherlock-aave-v4/)  
-  → Full report will be published after contest ends (Dec 29, 2025)
+## Platforms
 
-Open to junior/intern roles in smart contract auditing or blockchain QA.
+- **Code4rena** — competitive audit contests
+- **Sherlock** — competitive audit contests
+- **HackenProof** — bug bounty
+- **GuardianAudits** — audit collaboration (Limit Break AMM)
+- **Cantina** — competitive audit contests
 
-Let's talk security 🚀
+---
+
+## Languages & Ecosystems
+
+Solidity · Rust (Anchor/Solana) · Soroban/Stellar · EVM · Cross-chain (LayerZero, ISMP/Hyperbridge)
